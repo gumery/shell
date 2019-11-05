@@ -1,1 +1,6 @@
-# shell
+#shell
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/gumery/shell.git
+git push -u origin master
